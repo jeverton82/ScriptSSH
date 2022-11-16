@@ -1,3 +1,0 @@
-# 🤖 SCRIPTSSH 
-# BY SPACEINTERNET
-
